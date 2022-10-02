@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá, sou a Danielle! 👋
+
+#### :wrench: Habilidades
+ 
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,mysql,mongodb,sequelize,firebird,docker,py,html5,css3,react,redux,git,heroku,linux)](https://skillicons.dev)
+
+</p>
+
+#### 🔗 Contato
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielle-cristina/)
 
 <!--
 **daniellecris/daniellecris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
