@@ -2,8 +2,6 @@
 
 #### :wrench: Habilidades
  
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,mysql,mongodb,sequelize,firebird,docker,py,html5,css3,react,redux,git,heroku,linux)](https://skillicons.dev)
-
 </p>
 
 #### 🔗 Contato
