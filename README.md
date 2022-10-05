@@ -1,11 +1,13 @@
-### Olá, sou a Danielle! 👋
-<br/>
-Moro em Guarulhos - SP, 
+#### Olá, sou a Danielle! 👋
+<p>
+Moro em Guarulhos/ SP, sou apaixonada por tecnologia mesmo depois de trilhar outros caminhos, e se hoje tenho uma certeza, é que se tudo tem seu tempo, então não poderia existir tempo melhor para voltar e recomeçar a construção da minha carreira na área.
+</p>
 
 --- 
+
 #### **Meus interesses pessoais:**
 
-<li> 🔭 Atualmente estudo Desenvolvimento Web na Trybe
+<li> 🔭 Atualmente estudo Desenvolvimento Web Full Stack na Trybe
 <li> 🌱 Aprendendo Python</li>
 <li> 🤔 Meus hobbies filmes, viagens, momentos com família e amigos</li>
 <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
@@ -26,7 +28,8 @@ Moro em Guarulhos - SP,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
 </div>
 
 ---
@@ -43,8 +46,9 @@ Moro em Guarulhos - SP,
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellecris&show_icons=true&locale=en&layout=compact&true&theme=dark&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="daniellecris" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellecris&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="ldaniellecris" width="420" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellecris&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="daniellecris" width="420" />
 </div>
   
 ---
 ⭐️ Baseado em [Thalles Carneiro](https://github.com/thalles-carneiro)
+
