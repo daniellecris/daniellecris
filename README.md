@@ -1,24 +1,50 @@
 ### Olá, sou a Danielle! 👋
+<br/>
+Moro em Guarulhos - SP, 
 
-#### :wrench: Habilidades
- 
-</p>
+--- 
+#### **Meus interesses pessoais:**
 
-#### 🔗 Contato
+<li> 🔭 Atualmente estudo Desenvolvimento Web na Trybe
+<li> 🌱 Aprendendo Python</li>
+<li> 🤔 Meus hobbies filmes, viagens, momentos com família e amigos</li>
+<li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
+<li> ⚡ Uma Frase: "Toda lembrança é uma forma de encontro!"</li>
+
+---
+
+#### **Linguagens e Ferramentas:**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</div>
+
+---
+
+#### **Contato:**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielle-cristina/)
+  <a href = "mailto:daniellec.crisjesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/daniellecrisjesus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<!--
-**daniellecris/daniellecris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### **Estatísticas:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellecris&show_icons=true&locale=en&layout=compact&true&theme=dark&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="daniellecris" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellecris&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="ldaniellecris" width="420" />
+</div>
+  
+---
+⭐️ Baseado em [Thalles Carneiro](https://github.com/thalles-carneiro)
