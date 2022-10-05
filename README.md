@@ -48,6 +48,8 @@ Moro em Guarulhos/ SP, sou apaixonada por tecnologia mesmo depois de trilhar out
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellecris&show_icons=true&locale=en&layout=compact&true&theme=dark&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="daniellecris" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellecris&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="daniellecris" width="420" />
 </div>
+
+![Snake animation](https://github.com/daniellecris/daniellecris/blob/output/github-contribution-grid-snake.svg)
   
 ---
 ⭐️ Baseado em [Thalles Carneiro](https://github.com/thalles-carneiro)
